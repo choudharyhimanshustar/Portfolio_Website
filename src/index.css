@@ -11,7 +11,7 @@
 :root/*  In HTML, :root represents the <html> element and is identical to the selector html*/ {
   /* Declared  CSS variables */
   --color-bg: black;
-  --color-primary: rgb(75, 101, 189);
+  --color-primary: white;
   --color-white: white;
   --container-width-lg: 100%;
   --container-width-sm: 80%;
@@ -26,7 +26,7 @@ body {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   background-color: var(--color-bg);
-  color: white;
+  color: black;
   background-image: url(https://i.pinimg.com/236x/39/0e/1e/390e1e3ed860bcc23fea7fb84cfd393b.jpg);
 }
 
