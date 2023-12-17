@@ -9,7 +9,7 @@ const Projects = () => {
       <div className='projects'>
         <div className='content'>
           <h2>Tindog</h2>
-          <img src="https://shorturl.at/svBZ1" className='project_img'/>
+          <img src="https://shorturl.at/awMSY" className='project_img'/>
           <p>
             Welcome to Tindog, the pawsome website that brings together dogs and their pawrents! Tindog is a unique
             platform designed exclusively for our furry friends, where you can connect, mingle, and even find love for your beloved
