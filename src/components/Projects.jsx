@@ -25,7 +25,7 @@ const Projects = () => {
 
         <div className='content'>
           <h2>Crypto Tracker</h2>
-          <img src="https://shorturl.at/aiwAO" className='project_img'/>
+          <img src="https://shorturl.at/cyNWZ" className='project_img'/>
           <p>
             Welcome to CryptoTracker, your go-to destination for all things cryptocurrency! Whether you're a seasoned
             crypto investor or just getting started, CryptoTracker is here to empower you with real-time information on the
@@ -40,7 +40,7 @@ const Projects = () => {
 
         <div className='content'>
           <h2>Tic Tac Toe</h2>
-          <img src="https://shorturl.at/CMS45" className='project_img'/>
+          <img src="https://shorturl.at/bgovA" className='project_img'/>
           <p>
             Welcome to Tic Tac Toe Online, a captivating website that brings the
             classic game of Tic Tac Toe to life using the power of React! Immerse yourself in this beloved childhood
@@ -54,7 +54,7 @@ const Projects = () => {
 
         <div className='content'>
           <h2>Drum Kit</h2>
-          <img src="https://shorturl.at/pvAIN" className='project_img'/>
+          <img src="https://shorturl.at/nGSY5" className='project_img'/>
           <p>
             Welcome to DrumKit Online, an electrifying website that allows
             you to unleash your inner rhythm and become a drumming maestro! Immerse yourself in the world of percussion with our virtual drum kit. With its intuitive
