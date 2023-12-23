@@ -1,5 +1,5 @@
 import React from 'react'
-import CV from '../assests/Himanshu_Resume.pdf';
+import CV from '../assests/ChoudharyHimanshu_Resume.pdf';
 import './Header.css';
 /* Importing various icons from 'react-icons' */
 import { FaLinkedin } from 'react-icons/fa';
