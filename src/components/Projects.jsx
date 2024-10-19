@@ -8,17 +8,14 @@ const Projects = () => {
       </h2>
       <div className='projects'>
         <div className='content'>
-          <h2>Tindog</h2>
+          <h2>Digital Memory</h2>
           
           <p>
-            Welcome to Tindog, the pawsome website that brings together dogs and their pawrents! Tindog is a unique
-            platform designed exclusively for our furry friends, where you can connect, mingle, and even find love for your beloved
-            pooch. Created using basic HTML and CSS, Tindog provides a simple yet charming interface that celebrates
-            the joy of canine companionship.
+            The digital memory platform allows users to create, categorize, and manage memories with full CRUD (Create, Read, Update, Delete) functionalities, featuring secure authentication via JWT for login and signup to enhance data privacy. It enables easy organization by offering categorization of memories into themes like 'Family,' 'Achievements,' 'Travel,' and 'Milestones.'
           </p>
           <div className='view_project'>
-            <a href="https://choudharyhimanshustar.github.io/Tindog/" className='btn links'>Live Demo</a>
-            <a href="https://github.com/choudharyhimanshustar/Tindog" className='btn links'>Github Repo</a>
+            <a href="https://digital-memory-one.vercel.app/" className='btn links'>Live Demo</a>
+            <a href="https://github.com/choudharyhimanshustar/DigitalMemory" className='btn links'>Github Repo</a>
           </div>
         </div>
 
@@ -39,16 +36,14 @@ const Projects = () => {
         </div>
 
         <div className='content'>
-          <h2>Tic Tac Toe</h2>
+          <h2>Anonymous Chat App</h2>
           
           <p>
-            Welcome to Tic Tac Toe Online, a captivating website that brings the
-            classic game of Tic Tac Toe to life using the power of React! Immerse yourself in this beloved childhood
-            game and experience the thrill of strategic moves and intense competitions, right from the comfort of your browser.
+            Developed a fully functional anonymous chat application that enables real-time communication while ensuring user privacy. Utilized WebSocket for efficient, instantaneous message delivery, allowing seamless connections and smooth conversations without noticeable delays. Designed a responsive user interface with ReactJS to provide a consistent and user-friendly experience across desktops, tablets, and smartphones.
           </p>
           <div className='view_project'>
-            <a href="https://tic-tac-toe-nine-bay.vercel.app/" className='btn links'>Live Demo</a>
-            <a href="https://github.com/choudharyhimanshustar/TicTacToe" className='btn links'>Github Repo</a>
+            <a href="https://anonymous-chat-app-eight.vercel.app/" className='btn links'>Live Demo</a>
+            <a href="https://github.com/choudharyhimanshustar/AnonymousChatApp" className='btn links'>Github Repo</a>
           </div>
         </div>
 
