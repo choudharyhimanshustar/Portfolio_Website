@@ -36,7 +36,7 @@ const About = () => {
               </h3>
               <br></br>
               <span>
-                Cryptocoins Drumkit TicTacToe
+                Cryptocoins DigitalMemory AnonymousChatApp
               </span>
             </article>
 
